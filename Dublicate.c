@@ -18,11 +18,14 @@ int main()
     printf("Duplicate characters are: ");
 
     int found = 0;
+    int number =0;
     for (int i = 0; i < MAX_CHAR; i++) {
         if (count[i] > 1) {
-            printf("%c ", i);
+            printf("Character '%c' appears %d times\n",i, count[i]);
+            number ++;
             found++;
         }
+        printf("%n",number);
     }
 
     if (!found) {
