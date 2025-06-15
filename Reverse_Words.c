@@ -62,6 +62,7 @@ int main()
     printf("Enter the string:\n");
     fgets(str, sizeof(str), stdin);
     str[strcspn(str,"\n")] = '\0';
+    
      while(str[i]!='\0')
      {
         if(str[i] != ' ')

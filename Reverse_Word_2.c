@@ -41,7 +41,7 @@ int main() {
 
     printf("Reversed sentence:\n");
     for (int j = 0; j < strlen(str); j++) {
-        printf("%c", str[j]);
+        printf("%c", str[j])
     }
 
     return 0;
