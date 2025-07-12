@@ -1,0 +1,11 @@
+Dependencies for Project 'test1', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (RTE/Device/ARMCM7/ARMCM7_ac6.sct)(0x6645789C)()
+F (RTE/Device/ARMCM7/startup_ARMCM7.c)(0x6645789C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -mlittle-endian -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Kush/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Kush/AppData/Local/Arm/Packs/ARM/Cortex_DFP/1.1.0/Device/ARMCM7/Include-D__UVISION_VERSION="541" -DARMCM7 -D_RTE_-o ./objects/startup_armcm7.o -MMD)
+I (C:\Users\Kush\AppData\Local\Arm\Packs\ARM\Cortex_DFP\1.1.0\Device\ARMCM7\Include\ARMCM7.h)(0x6645789C)
+I (C:\Users\Kush\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm7.h)(0x664BFBB0)
+I (C:\Users\Kush\AppData\Local\Arm\Packs\ARM\Cortex_DFP\1.1.0\Device\ARMCM7\Include\system_ARMCM7.h)(0x6645789C)
+F (RTE/Device/ARMCM7/system_ARMCM7.c)(0x6645789C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -mlittle-endian -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Kush/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Kush/AppData/Local/Arm/Packs/ARM/Cortex_DFP/1.1.0/Device/ARMCM7/Include-D__UVISION_VERSION="541" -DARMCM7 -D_RTE_-o ./objects/system_armcm7.o -MMD)
+I (C:\Users\Kush\AppData\Local\Arm\Packs\ARM\Cortex_DFP\1.1.0\Device\ARMCM7\Include\ARMCM7.h)(0x6645789C)
+I (C:\Users\Kush\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm7.h)(0x664BFBB0)
+I (C:\Users\Kush\AppData\Local\Arm\Packs\ARM\Cortex_DFP\1.1.0\Device\ARMCM7\Include\system_ARMCM7.h)(0x6645789C)
